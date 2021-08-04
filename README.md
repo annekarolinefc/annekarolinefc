@@ -16,7 +16,7 @@
   <img align="center" alt="Anne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Anne-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Anne-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img aling="center" alt="Anne-Jquery" height="30" width="40" src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/jQuery-logo.png">
+  <!--<img aling="center" alt="Anne-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jquery/jquery-original.svg">-->
 
 </div>
   
