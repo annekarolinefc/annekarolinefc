@@ -1,6 +1,7 @@
 ### Olá! 👋
 Eu sou a Anne. 
 - Sou estudante de Análise e Desenvolvimento de Sistemas (4/5).
+- Possuo Bacharel em Engenharia Civil e Bacharel Interdisciplinar em Ciência e Tecnologia.
 - Atualmente estou me aprofundando em **Engenharia de Dados** e estou estagiando na [Compass.UOL](https://compass.uol/pt/home/) 
 - Estou aprofundando os meus conhecimentos em SQL, Python, Pandas, NumPy e Big Data.
 
