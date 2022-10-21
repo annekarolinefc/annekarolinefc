@@ -38,8 +38,11 @@ Eu sou a Anne.
   <img align="center" alt="Anne-An" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
 
 -->
-    
+</br>
+</br>
+</br>
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
