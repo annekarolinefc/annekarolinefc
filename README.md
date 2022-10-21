@@ -40,6 +40,35 @@ Eu sou a Anne.
 -->
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 745 Contributions in the Year 2022
+ > 
+> 📦 495.9 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 122 Public Repositories 
+ > 
+> 🔑 19 Private Repositories  
+ > 
+**I Mostly Code in HTML** 
+
+```text
+HTML                     28 repos            ███████░░░░░░░░░░░░░░░░░░   30.77% 
+JavaScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   24.18% 
+Jupyter Notebook         12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+CSS                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
+Vue                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.59%
+
+```
+
+
+
+ Last Updated on 21/10/2022 17:18:08 UTC
 <!--END_SECTION:waka-->
   
