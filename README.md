@@ -15,6 +15,8 @@ Eu sou a Anne.
 </div>
 
 </br>
+
+</br>
 <div>
   <a href="https://github.com/annekarolinefc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annekarolinefc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -37,5 +39,7 @@ Eu sou a Anne.
 
 -->
     
-  
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
   
