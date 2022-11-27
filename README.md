@@ -42,7 +42,7 @@ Eu sou a Anne.
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,7 +50,7 @@ Eu sou a Anne.
 
 > 🏆 827 Contributions in the Year 2022
  > 
-> 📦 646.7 kB Used in GitHub's Storage 
+> 📦 646.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -121,6 +121,6 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2022 19:45:23 UTC
+ Last Updated on 27/11/2022 19:50:32 UTC
 <!--END_SECTION:waka-->
   
