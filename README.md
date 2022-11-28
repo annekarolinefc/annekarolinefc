@@ -42,13 +42,13 @@ Eu sou a Anne.
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 840 Contributions in the Year 2022
+> 🏆 845 Contributions in the Year 2022
  > 
 > 📦 667.2 kB Used in GitHub's Storage 
  > 
@@ -121,6 +121,6 @@ Jupyter Notebook         11 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 28/11/2022 19:09:57 UTC
+ Last Updated on 28/11/2022 19:21:34 UTC
 <!--END_SECTION:waka-->
   
