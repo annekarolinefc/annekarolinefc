@@ -50,7 +50,7 @@ Eu sou a Anne.
 
 > 🏆 854 Contributions in the Year 2022
  > 
-> 📦 671.4 kB Used in GitHub's Storage 
+> 📦 671.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -121,6 +121,6 @@ Jupyter Notebook         11 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022 14:33:56 UTC
+ Last Updated on 29/11/2022 14:41:55 UTC
 <!--END_SECTION:waka-->
   
