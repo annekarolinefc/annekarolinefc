@@ -42,7 +42,7 @@ Eu sou a Anne.
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -121,6 +121,6 @@ Jupyter Notebook         11 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 02/12/2022 14:43:25 UTC
+ Last Updated on 02/12/2022 14:49:05 UTC
 <!--END_SECTION:waka-->
   
