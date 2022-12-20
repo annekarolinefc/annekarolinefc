@@ -87,17 +87,16 @@ Sunday       15 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 55 mins        ███████████████████████░░   91.62% 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.38%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Engenharia de Dados ATUAL2 hrs 6 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 6 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -114,6 +113,6 @@ Python                   11 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 20/12/2022 03:01:37 UTC
+ Last Updated on 20/12/2022 03:16:32 UTC
 <!--END_SECTION:waka-->
   
