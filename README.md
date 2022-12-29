@@ -50,7 +50,7 @@ Eu sou a Anne.
 
 > 🏆 908 Contributions in the Year 2022
  > 
-> 📦 675.7 kB Used in GitHub's Storage 
+> 📦 675.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -114,6 +114,6 @@ Python                   10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2022 16:18:14 UTC
+ Last Updated on 29/12/2022 16:38:18 UTC
 <!--END_SECTION:waka-->
   
