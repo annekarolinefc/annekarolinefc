@@ -54,9 +54,9 @@ Eu sou a Anne.
  > 
 > 💼 Opted to Hire
  > 
-> 📜 139 Public Repositories 
+> 📜 137 Public Repositories 
  > 
-> 🔑 19 Private Repositories  
+> 🔑 21 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -117,6 +117,6 @@ Python                   11 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 04/01/2023 14:30:21 UTC
+ Last Updated on 04/01/2023 14:38:07 UTC
 <!--END_SECTION:waka-->
   
