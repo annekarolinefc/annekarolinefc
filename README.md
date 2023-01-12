@@ -14,19 +14,16 @@ Eu sou a Anne.
 <a href="https://api.whatsapp.com/send?phone=5533991375118&text=Ol%C3%A1%20Anne!%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-</br>
-
-</br>
   
 <!--
   <img align="center" alt="Anne-An" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-
 -->
+
 </br>
-</br>
-</br>
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2059%20mins-blue)
+
+<!--![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2059%20mins-blue)-->
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
