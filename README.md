@@ -22,7 +22,7 @@ Eu sou a Anne.
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -67,16 +67,18 @@ Sunday       15 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 31 mins        ████████████████████████░   98.6% 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 32 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Compass                  1 hr 30 mins        ████████████████████████░   96.98% 
+API                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 32 mins        █████████████████████████   100.0%
 
 ```
 
@@ -93,6 +95,6 @@ Python                   12 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 18/01/2023 03:02:45 UTC
+ Last Updated on 18/01/2023 03:20:04 UTC
 <!--END_SECTION:waka-->
   
