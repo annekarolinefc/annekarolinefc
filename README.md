@@ -22,7 +22,7 @@ Eu sou a Anne.
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,16 +67,22 @@ Sunday       15 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 39 mins       ██████████████████████░░░   90.59% 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57% 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 56 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Dashboards Interativos co2 hrs 26 mins       ████████████████████░░░░░   83.33% 
+Analisando Dados com Pand27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
+Engenharia de Dados ATUAL1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -93,6 +99,6 @@ CSS                      10 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 15/02/2023 03:16:20 UTC
+ Last Updated on 15/02/2023 03:33:24 UTC
 <!--END_SECTION:waka-->
   
