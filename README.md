@@ -22,7 +22,7 @@ Eu sou a Anne.
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,9 +34,9 @@ Eu sou a Anne.
  > 
 > 💼 Opted to Hire
  > 
-> 📜 141 Public Repositories 
+> 📜 143 Public Repositories 
  > 
-> 🔑 30 Private Repositories  
+> 🔑 28 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -50,10 +50,10 @@ Eu sou a Anne.
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       197 commits    ██████░░░░░░░░░░░░░░░░░░░   24.44% 
+Monday       196 commits    ██████░░░░░░░░░░░░░░░░░░░   24.32% 
 Tuesday      117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
-Wednesday    111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Thursday     144 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
+Wednesday    110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
+Thursday     146 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
 Friday       203 commits    ██████░░░░░░░░░░░░░░░░░░░   25.19% 
 Saturday     19 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
 Sunday       15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
@@ -100,6 +100,6 @@ CSS                      9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 20:09:16 UTC
+ Last Updated on 23/02/2023 20:26:48 UTC
 <!--END_SECTION:waka-->
   
