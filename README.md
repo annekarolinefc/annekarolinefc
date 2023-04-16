@@ -28,7 +28,7 @@ Eu sou a Anne.
 
 **🐱 My GitHub Data** 
 
-> 🏆 68 Contributions in the Year 2023
+> 🏆 65 Contributions in the Year 2023
  > 
 > 📦 633.5 kB Used in GitHub's Storage 
  > 
@@ -101,6 +101,6 @@ Python                   5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2023 12:55:33 UTC
+ Last Updated on 16/04/2023 13:04:41 UTC
 <!--END_SECTION:waka-->
   
