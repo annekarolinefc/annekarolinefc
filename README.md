@@ -26,19 +26,21 @@ Eu sou a Anne.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
+
 **🐱 My GitHub Data** 
 
 > 🏆 71 Contributions in the Year 2023
  > 
 > 📦 633.7 kB Used in GitHub's Storage 
  > 
-> 💼 Opted to Hire
- > 
+
 > 📜 12 Public Repositories 
  > 
 > 🔑 59 Private Repositories  
  > 
 **I'm an Early 🐤** 
+
+
 
 ```text
 🌞 Morning    110 commits    █████░░░░░░░░░░░░░░░░░░░░   21.19% 
