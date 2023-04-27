@@ -32,8 +32,6 @@ Eu sou a Anne.
  > 
 > 📦 633.9 kB Used in GitHub's Storage 
  > 
-> 💼 Opted to Hire
- > 
 > 📜 12 Public Repositories 
  > 
 > 🔑 59 Private Repositories  
