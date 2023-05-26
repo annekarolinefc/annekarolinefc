@@ -22,7 +22,7 @@ Eu sou a Anne.
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -101,6 +101,6 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2023 21:59:35 UTC
+ Last Updated on 26/05/2023 22:10:50 UTC
 <!--END_SECTION:waka-->
   
