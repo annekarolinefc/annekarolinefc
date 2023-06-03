@@ -22,7 +22,7 @@ Eu sou a Anne.
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,7 +30,7 @@ Eu sou a Anne.
 
 > 🏆 95 Contributions in the Year 2023
  > 
-> 📦 638.2 kB Used in GitHub's Storage 
+> 📦 638.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -98,6 +98,6 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2023 11:51:07 UTC
+ Last Updated on 03/06/2023 11:57:06 UTC
 <!--END_SECTION:waka-->
   
