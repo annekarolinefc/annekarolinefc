@@ -24,7 +24,7 @@ Eu sou a Anne.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -103,6 +103,6 @@ Python                   5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2023 21:58:12 UTC
+ Last Updated on 29/08/2023 22:08:52 UTC
 <!--END_SECTION:waka-->
   
