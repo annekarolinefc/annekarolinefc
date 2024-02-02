@@ -1,9 +1,9 @@
 ### Olá! 👋
 Eu sou a Anne. 
-- Sou formada em Análise e Desenvolvimento de Sistemas e atualmente faço especialização em Engenharia de Dados.
+- Sou formada em Análise e Desenvolvimento de Sistemas e atualmente faço especialização em Engenharia de Dados na PUC-MG.
 - Também possuo Bacharel em Engenharia Civil e Bacharel Interdisciplinar em Ciência e Tecnologia.
-- Atualmente estou me aprofundando em **Engenharia de Dados** e trabalho na [Compass.UOL](https://compass.uol/pt/home/) 
-- Meu foco atual é em SQL, Python, Pandas, Spark, AWS e Big Data.
+- Atualmente estou me aprofundando em **Engenharia de Dados** e trabalho na [Compass.UOL](https://compass.uol/pt/home/). 
+- Meu foco atual é em AWS, SQL, Python, Pandas, Spark, Airflow e Big Data.
 
 📫 Contate-me: 
 
