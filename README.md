@@ -1,9 +1,10 @@
 ### Olá! 👋
 Eu sou a Anne. 
-- Sou formada em Análise e Desenvolvimento de Sistemas e atualmente faço especialização em Engenharia de Dados na PUC-MG.
+- Sou formada em Análise e Desenvolvimento de Sistemas e especialista em Engenharia de Dados pela PUC-MG.
+- Sou certificada pela AWS (AWS Certified Cloud Practitioner - 10/2023)
 - Também possuo Bacharel em Engenharia Civil e Bacharel Interdisciplinar em Ciência e Tecnologia.
-- Atualmente estou me aprofundando em **Engenharia de Dados** e trabalho na [Compass.UOL](https://compass.uol/pt/home/). 
-- Meu foco atual é em AWS, SQL, Python, Pandas, Spark, Airflow e Big Data.
+- Atualmente trabalho na [Compass.UOL](https://compass.uol/pt/home/). 
+- Meu foco atual é em AWS, SQL, Python, Spark e Databricks.
 
 📫 Contate-me: 
 
